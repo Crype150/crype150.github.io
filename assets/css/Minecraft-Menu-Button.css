@@ -1,0 +1,15 @@
+.mcbutton {
+  background: url("../../assets/img/button.png") no-repeat;
+  background-size: contain;
+  font-family: Minecraftia;
+  border-style: none;
+  position: static;
+  filter: blur(0px);
+  --bs-body-font-weight: normal;
+  height: 46px;
+}
+
+.mcbutton:hover {
+  background-image: url('../../assets/img/button_highlighted.png');
+}
+

@@ -1,0 +1,27 @@
+.panoramic {
+  /*width: 1000px;*/
+  height: 1000px;
+  background: url('../../assets/img/panorama-1.jpg');
+  background-size: auto 90%;
+  border-radius: 0%;
+  animation: panoramic 90s linear infinite;
+  /*margin: auto;*/
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+
+.center {
+  /*margin: auto;*/
+  /*width: 50%;*/
+  /*border: 3px solid green;*/
+  /*padding: 10px;*/
+}
+
+@keyframes panoramic {
+  to {
+    background-position: 100% 0;
+  }
+}
+
