@@ -1,0 +1,8 @@
+@font-face {
+	font-family: 'Inclitodo';
+	src: url(../../assets/fonts/Inclitodo-52ed85d6af800ca52fbdeac122060ef5.woff2) format('woff2'),
+	url(../../assets/fonts/Inclitodo-8bb65a1f6f6173c41e760773d0ce5eaa.woff) format('woff');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
