@@ -1,0 +1,16 @@
+a {
+  /*color: #8e888a;*/
+  text-decoration: none;
+  /*outline: none;*/
+}
+
+a:hover, a:focus {
+  /*color: #a7a0a2;*/
+}
+
+@media (max-width:767px) {
+  a {
+    /*font-size: 25px;*/
+  }
+}
+
