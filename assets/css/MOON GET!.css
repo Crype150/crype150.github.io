@@ -1,0 +1,8 @@
+@font-face {
+	font-family: 'MOON GET!';
+	src: url(../../assets/fonts/MOON%20GET!-23a7050447f71b11a9cbbea8781f7973.woff2) format('woff2'),
+	url(../../assets/fonts/MOON%20GET!-e0ce2f9130a5487dd8ec5227af5f743b.woff) format('woff');
+	font-weight: 900;
+	font-style: normal;
+	font-display: swap;
+}
