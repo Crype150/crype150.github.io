@@ -1,7 +1,7 @@
 .panoramic {
   /*width: 1000px;*/
   height: 1000px;
-  background: url('../../assets/img/panorama-1.jpg');
+  background: url('../../assets/img/panorama-26ween.jpg');
   background-size: auto 90%;
   border-radius: 0%;
   animation: panoramic 90s linear infinite;
